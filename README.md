@@ -18,7 +18,7 @@
 
 <br />
 
-3. <a href="XXX" target="_blank" rel="noreferrer"> **Agglomerative Clustering in a credit card dataset:**</a>
+3. <a href="https://github.com/VinicioAM/Python/tree/main/PCA" target="_blank" rel="noreferrer"> **Agglomerative Clustering in a credit card dataset:**</a>
     * Use of Agglomerative Hierarchical Clustering and Principal Component Analysis (PCA) in a Credit Card Churn Dataset.
     * **100% PYTHON** <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="./imgs/python.svg" alt="Python" width="15" height="15"/> </a>  - The whole script was made in Python.
     * Source code available.
